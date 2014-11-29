@@ -1,0 +1,4 @@
+gde_playlearn_frontend:
+    resource: "@GdePlaylearnFrontendBundle/Resources/config/routing.yml"
+    prefix:   /
+
